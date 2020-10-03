@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Joshua Vita"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student in materials science at the University of Illinois Urbana-Champaign"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
